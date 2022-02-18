@@ -2,6 +2,14 @@
 name = "lambda_twist"
 version = "0.1.0"
 edition = "2021"
+license = "GPL-3.0"
+keywords = ["perspective", "three", "point", "projection", "p3p"]
+categories = ["algorithms", "computer-vision"]
+
+homepage = "https://github.com/kpwelsh/LambdaTwistP3P"
+repository = "https://github.com/kpwelsh/LambdaTwistP3P"
+readme = "README.md"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
