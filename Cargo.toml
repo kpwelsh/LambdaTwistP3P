@@ -5,6 +5,7 @@ edition = "2021"
 license = "GPL-3.0"
 keywords = ["perspective", "three", "point", "projection", "p3p"]
 categories = ["algorithms", "computer-vision"]
+description = "Small library for solving a simplified version of the p3p problem."
 
 homepage = "https://github.com/kpwelsh/LambdaTwistP3P"
 repository = "https://github.com/kpwelsh/LambdaTwistP3P"
